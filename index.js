@@ -1,7 +1,7 @@
 const variavel = 1;
 
-function welcome(nome) {
-  console.log(`Hello ${nome}! Welcome!`);
+function nome(nome) {
+  console.log(`Hello ${nome}`);
 }
 
 console.log("Console log");
